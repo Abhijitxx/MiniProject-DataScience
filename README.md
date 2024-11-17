@@ -1,7 +1,7 @@
 
 # MRI Hippocampus Segmentation (MRIHS) Dataset
 
-This repository provides instructions to access and utilize the MRI Hippocampus Segmentation (MRIHS) dataset, which is available on Kaggle. The dataset is ideal for machine learning applications in medical imaging, particularly segmentation tasks.
+This readme file provides instructions to access and utilize the MRI Hippocampus Segmentation (MRIHS) dataset, which is available on Kaggle. The dataset is ideal for machine learning applications in medical imaging, particularly segmentation tasks.
 
 ---
 
@@ -76,6 +76,4 @@ Alternatively, you can download the dataset manually by visiting [MRIHS Dataset 
 
 This dataset is provided by **Saber Malek**. We appreciate their contribution to the field of medical imaging.
 
---- 
 
-Feel free to customize this README further to suit your project.
