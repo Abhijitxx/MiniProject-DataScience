@@ -1,6 +1,3 @@
-Here is a draft for a **README.md** file to help users access the "MRI Hippocampus Segmentation (MRIHS)" dataset from Kaggle:
-
----
 
 # MRI Hippocampus Segmentation (MRIHS) Dataset
 
